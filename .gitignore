@@ -1,0 +1,8 @@
+# Ignore uploaded PDFs and model files (can be large)
+uploads/
+models/
+*.bin
+
+# Ignore system files
+.DS_Store
+Thumbs.db
